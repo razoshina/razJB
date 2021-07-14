@@ -1,0 +1,19 @@
+Name: shiwrazCopic 
+Package: com.shiwrazCopic
+Version: 1.14.2-beta-6
+Architecture: iphoneos-arm
+Description: The new Copic 2 is totally redesigned, optimized and rebuilt from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. It integrates with locks screen and Notification Center and display the contact pictures for missed calls and text. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.
+Homepage: http://iarrays.com/
+Depiction: http://iarrays.com/depiction/?product=copic2
+SileoDepiction: http://iarrays.com/sileo-depiction/copic2/copic2.json
+Pre-Depends: firmware (>=9.0)
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.iarrays.libiarrays (>= 1.0.15)
+Conflicts: com.iarrays.copic10, com.iarrays.copic
+Maintainer: IArrays <support@iarrays.com>
+Author: IArrays <support@iarrays.com>
+Sponsor: IArrays
+Section: Utilities
+Installed-Size: 1024
+Icon: file:////System/Library/PreferenceBundles/CopicSettings.bundle/Copic.png
+
+
